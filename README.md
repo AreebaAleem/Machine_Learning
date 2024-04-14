@@ -5,7 +5,7 @@ Welcome to the Machine Learning Repository! This repository contains a collectio
 
 ## Usage
 
-To use the code in this repository, simply clone or download the repository to your local machine. Each directory corresponds to a different machine learning topic, algorithm containing Jupyter Notebook (.ipynb) files along with any necessary datasets or additional resources.
+To use the code in this repository, simply clone or download the repository to your local machine. Each directory corresponds to a different machine learning topic, project, algorithm containing Jupyter Notebook (.ipynb) files along with any necessary datasets or additional resources.
 
 Alternatively, you can run the notebooks directly in your web browser using Google Colab, which provides free access to GPUs and TPUs for faster computation. Simply click on the "Open in Colab" button at the top of each notebook to launch it in Google Colab.
 
